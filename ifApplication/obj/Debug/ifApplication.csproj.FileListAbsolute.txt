@@ -1,0 +1,6 @@
+C:\Users\Nicolas\Documents\Visual Studio 2013\Projects\TreinandoCSharp\ifApplication\ifApplication\bin\Debug\ifApplication.exe.config
+C:\Users\Nicolas\Documents\Visual Studio 2013\Projects\TreinandoCSharp\ifApplication\ifApplication\bin\Debug\ifApplication.exe
+C:\Users\Nicolas\Documents\Visual Studio 2013\Projects\TreinandoCSharp\ifApplication\ifApplication\bin\Debug\ifApplication.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2013\Projects\TreinandoCSharp\ifApplication\ifApplication\obj\Debug\ifApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2013\Projects\TreinandoCSharp\ifApplication\ifApplication\obj\Debug\ifApplication.exe
+C:\Users\Nicolas\Documents\Visual Studio 2013\Projects\TreinandoCSharp\ifApplication\ifApplication\obj\Debug\ifApplication.pdb
